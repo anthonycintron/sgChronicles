@@ -1,3 +1,7 @@
+// projects
+// github
+// goodreads
+
 var timeline = function (shape_label, r, fillColor){
   
   var container = document.getElementById('content');
